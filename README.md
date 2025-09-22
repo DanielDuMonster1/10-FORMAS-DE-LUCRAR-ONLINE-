@@ -2,7 +2,7 @@
 
 **Descubra maneiras práticas de gerar renda e aumentar seus ganhos!**
 
-Projeto criado por **Daniel DuMonster1** com o objetivo de apresentar estratégias de lucro online e offline para iniciantes e empreendedores. Este repositório serve como vitrine do conteúdo completo disponível no ebook.
+Projeto criado por **Daniel** com o objetivo de apresentar estratégias de lucro online e offline para iniciantes e empreendedores. Este repositório serve como vitrine do conteúdo completo disponível no ebook.
 
 ## Sobre o Projeto
 
@@ -20,12 +20,8 @@ O ebook **“10 Formas de Lucrar”** ensina métodos comprovados para gerar ren
 ## Como adquirir
 
 Para acessar o conteúdo completo, você deve adquirir o ebook pelo **Hotmart**:  
-[Link do Hotmart]  
+[https://hotmart.com/pt-br/club/daniel-vieira-lima](https://hotmart.com/pt-br/club/daniel-vieira-lima)
 
 ## Sobre o Autor
 
-**Daniel DuMonster1** – Criador e mentor de projetos digitais focados em renda extra e empreendedorismo.
-
----
-
-**Contato:** [Seu e-mail ou rede social, se quiser adicionar]
+**Daniel** – Criador e mentor de projetos digitais focados em renda extra e empreendedorismo.
