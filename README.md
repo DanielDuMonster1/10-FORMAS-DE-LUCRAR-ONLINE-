@@ -1,33 +1,31 @@
 # 10 FORMAS DE LUCR
 
-Projeto criado por **Daniel DuMonster1** com o objetivo de apresentar **10 maneiras práticas de gerar lucro e ganhar dinheiro**, seja online ou offline. Ideal para iniciantes ou para quem quer expandir suas fontes de renda.
+**Descubra maneiras práticas de gerar renda e aumentar seus ganhos!**
+
+Projeto criado por **Daniel DuMonster1** com o objetivo de apresentar estratégias de lucro online e offline para iniciantes e empreendedores. Este repositório serve como vitrine do conteúdo completo disponível no ebook.
 
 ## Sobre o Projeto
 
-Este projeto contém conteúdos e estratégias voltadas para **empreendedores, freelancers e curiosos sobre renda extra**. Cada forma de lucro é explicada de maneira simples e objetiva, permitindo aplicação prática imediata.
+O ebook **“10 Formas de Lucrar”** ensina métodos comprovados para gerar renda de forma prática e eficiente. Cada forma de lucro é detalhada com passo a passo e dicas estratégicas que você só encontra no material completo.
 
-## Funcionalidades
+## O que você vai encontrar no ebook
 
-- Lista detalhada de 10 métodos de lucro.
-- Explicações passo a passo para cada método.
-- Dicas para maximizar ganhos e evitar erros comuns.
+- Estratégias simples para começar a lucrar rapidamente.  
+- Métodos aplicáveis tanto online quanto offline.  
+- Dicas para maximizar ganhos e evitar erros comuns.  
+- Conteúdo exclusivo que não está disponível gratuitamente.
 
-## Como Usar
+> ⚠️ **Observação:** O conteúdo completo das 10 formas de lucrar está disponível apenas no ebook do Hotmart. Este repositório é apenas uma apresentação do projeto.
 
-1. Leia cada forma de lucro apresentada.
-2. Escolha a(s) que mais se adapta(m) ao seu perfil.
-3. Aplique as estratégias sugeridas.
-4. Compartilhe suas experiências e resultados!
+## Como adquirir
 
-## Contribuindo
+Para acessar o conteúdo completo, você deve adquirir o ebook pelo **Hotmart**:  
+[Link do Hotmart]  
 
-Contribuições são bem-vindas! Se você tiver dicas extras ou formas de lucro que gostaria de adicionar, sinta-se à vontade para criar um **pull request** ou abrir uma **issue**.
+## Sobre o Autor
 
-## Licença
-
-Este projeto é aberto e gratuito para uso pessoal e educacional. Para usos comerciais, entre em contato com o autor.
+**Daniel DuMonster1** – Criador e mentor de projetos digitais focados em renda extra e empreendedorismo.
 
 ---
 
-**Autor:** Daniel DuMonster1  
 **Contato:** [Seu e-mail ou rede social, se quiser adicionar]
